@@ -1,13 +1,30 @@
-<h1 align="center">Hi 👋, I'm Aby Babu</h1>
-<h3 align="center">Flutter Mobile Application Developer</h3>
+# Hi 👋, I'm Aby Babu
+## Flutter Mobile Application Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abybabu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Passionate Flutter developer crafting fast, scalable, and beautiful mobile applications
 
-<p align="center">
-  Passionate Flutter developer crafting fast, scalable, and beautiful mobile applications
-</p>
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aby-babu-241964325)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abyb4613@gmail.com)
+
+---
+
+## 💬 Random Dev Quote
+
+> *"The more varieties of different kinds of notations are still useful — don't only read the people who code like you."*
+> 
+> **- Donald Knuth**
+
+---
+
+## 🚀 Another Dev Wisdom
+
+> *"First, solve the problem. Then, write the code."*
+> 
+> **- John Johnson**
 
 ---
 
@@ -26,7 +43,6 @@
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
@@ -44,18 +60,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abybabu&show_icons=true&theme=dark" />
-</p>
+![Aby's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abybabu&theme=dark" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+## 💼 Professional Info
 
 - 💼 Flutter Developer
 - 📍 India
 - 📧 Open to freelance & full-time opportunities
+
+---
+
+### 💙 Open to collaboration on mobile projects!
