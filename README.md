@@ -13,7 +13,7 @@ Passionate Flutter developer crafting fast, scalable, and beautiful mobile appli
 ---
 
 
-## 🚀 Another Dev Wisdom
+## 🚀 Dev Wisdom
 
 > *"First, solve the problem. Then, write the code."*
 > 
