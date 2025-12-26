@@ -58,13 +58,10 @@ Passionate Flutter developer crafting fast, scalable, and beautiful mobile appli
 
 ---
 <p align="center">
-  <strong>📩 Available for freelance & full-time roles</strong>
+  <em>“Code is not just syntax — it’s experience.”</em>
 </p>
 
 <p align="center">
-  <em>Let’s connect and build impactful mobile apps</em>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=90&section=footer" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
