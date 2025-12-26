@@ -12,13 +12,6 @@ Passionate Flutter developer crafting fast, scalable, and beautiful mobile appli
 
 ---
 
-## 💬 Random Dev Quote
-
-> *"The more varieties of different kinds of notations are still useful — don't only read the people who code like you."*
-> 
-> **- Donald Knuth**
-
----
 
 ## 🚀 Another Dev Wisdom
 
@@ -57,15 +50,6 @@ Passionate Flutter developer crafting fast, scalable, and beautiful mobile appli
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Aby's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 💼 Professional Info
 
 - 💼 Flutter Developer
