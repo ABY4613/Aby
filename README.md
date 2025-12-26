@@ -65,6 +65,6 @@ Passionate Flutter developer crafting fast, scalable, and beautiful mobile appli
   <em>Let’s connect and build impactful mobile apps</em>
 </p>
 
-<p align="center">
+<p align="full">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
